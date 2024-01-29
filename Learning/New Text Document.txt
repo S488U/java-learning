@@ -1,0 +1,11 @@
+class Ifchecking {
+	public static void main(String[] args) {
+		System.out.print("The answer is checking.......");
+		int age = 21;
+		if(age < 18 ) {
+			System.out.print("You are a Minor.");
+		} else {
+			System.out.print("You are a Senior.");
+		}
+	}	
+}
